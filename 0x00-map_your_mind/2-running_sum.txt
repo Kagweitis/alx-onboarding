@@ -1,0 +1,4 @@
+Read num1,...,num n
+sum(num1,...,num n)
+if num <0
+end
