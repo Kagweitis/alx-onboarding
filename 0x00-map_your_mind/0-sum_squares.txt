@@ -1,0 +1,6 @@
+read and store in array num_1,..., num_n
+sum=0
+for (i=0, i++, i<n-1):
+	num=num[i]*num[i]
+	sum=sum+num
+print(sum)
